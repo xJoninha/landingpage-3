@@ -2,10 +2,10 @@
 
 >Praticando com landing page, terceiro repositório, para manter o conhecimeto em dia :D
 
-### Base do HTML para iniciar o trabalho
+### Base do HTML
 ```html
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
